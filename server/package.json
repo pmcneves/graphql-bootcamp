@@ -1,0 +1,19 @@
+{
+  "name": "graphql-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.6.2",
+    "graphql": "^16.3.0",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.15"
+  }
+}
